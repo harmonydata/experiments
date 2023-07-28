@@ -12,3 +12,8 @@ How does Harmony handle cultural concepts of distress such as *kufungisisa* (thi
 I had to use a Shona transformer model for this. 
 
 Using [Shona symptom questionnaire for the detection of depression and anxiety](https://depts.washington.edu/edgh/zw/hit/web/project-resources/shona_symptom_questionnaire.pdf) and running in Google Colab.
+
+## Multilingual evaluation
+
+Harmony can now handle 8 languages (at least):
+* Portuguese, French, German, Spanish, Russian, Chinese, Hebrew
